@@ -4,9 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# Hello, I'm Rachel
 
-### More Information
+I'm a third year Computer Science major at NYU. You'll find short writings on my open source experience here, updated weekly. 
 
-A place to include any other types of information that you'd like to include about yourself.
+When I'm not in school, I enjoy sketching, boxing, and taking care of my plants. You can find most of my shenanigans on [my Instagram](https://www.instagram.com/rachelyhe/).
 
+### What I Do
+
+For the past two years, I've been pursuing a career in Product Design (digital products like apps, not fancy chairs or toys). If you're bored, check out [my portfolio site](https://www.rachelyhe.com/) or read [this thing I wrote](https://uxdesign.cc/coursera-a-mobile-redesign-case-study-28486273d80b).
+
+### Things I Like
+
+Right now I'm
+• listening to NPR's [99% Invisible](https://99percentinvisible.org/)
+• reading Don Norman's [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123)
+• watching Game of Thrones, probably
