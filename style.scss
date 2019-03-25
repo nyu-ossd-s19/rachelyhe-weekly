@@ -5,7 +5,7 @@
 // IMPORTS
 //
 @import url('https://fonts.googleapis.com/css?family=Lato');
-@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
@@ -33,9 +33,9 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Montserrat";
+  font-family: "Roboto";
   color: $darkerGray;
-  font-weight: 500;
+  font-weight: bold;
 
   line-height: 1.7;
   margin: 1em 0 15px;
