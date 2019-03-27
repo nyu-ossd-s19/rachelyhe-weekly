@@ -23,4 +23,5 @@ Replace the first row with your contribution.
 |  2   |  [link](https://github.com/nyu-ossd-s19/angie1313-weekly/issues/3)   |  project evaluation   |   issue report   |
 |  4   |  [link](https://github.com/nyu-ossd-s19/Joannify/issues/12)   |  team project   |   issue report   |
 |  5   |  [link](https://github.com/sindresorhus/caprine/issues/712)   |  caprine   |   comment   |
+|  6   |  [link](https://en.wikipedia.org/w/index.php?title=Colin_Huggins&oldid=889469394)   |   wikipedia edit   |  updated info   |
 |  7   |  [link](https://github.com/sindresorhus/caprine/issues/832)   |  caprine   |   issue report   |
