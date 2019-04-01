@@ -25,4 +25,4 @@ Replace the first row with your contribution.
 |  5   |  [link](https://github.com/sindresorhus/caprine/issues/712)   |  caprine   |   comment on issue in Caprine   |
 |  6   |  [link](https://en.wikipedia.org/w/index.php?title=Colin_Huggins&oldid=889469394)   |   wikipedia edit   |  updated info on a friend's Wikipedia page   |
 |  7   |  [link](https://github.com/sindresorhus/caprine/issues/832)   |  caprine   |   issue report in Caprine   |
-|  8   |  [link](https://github.com/joannakl/ossd_s19/pull/5)   |  class website   |  pull request, added a list with links to class projects   |
+|  7   |  [link](https://github.com/joannakl/ossd_s19/pull/5)   |  class website   |  pull request, added a list with links to class projects   |
