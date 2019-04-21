@@ -18,8 +18,8 @@ Replace the first row with your contribution.
 
 
 
-| Week #       | Contribution (Link)  | Type  | Description | 
-|---|:---|:---|:---| 
+| Week     | Contribution  | Type  | Description | 
+|:---|:---|:---|:---| 
 |  2   |  [link](https://github.com/nyu-ossd-s19/angie1313-weekly/issues/3)   |  project evaluation   |   issue report on classmate's wiki   |
 |  4   |  [link](https://github.com/nyu-ossd-s19/Joannify/issues/12)   |  team project   |   issue report on browser extension   |
 |  5   |  [link](https://github.com/sindresorhus/caprine/issues/712)   |  caprine   |   comment on issue in Caprine   |
